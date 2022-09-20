@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Biblioteca>
+  <Libro>
+    <Titulo></Titulo>
+    <Autor></Autor>
+    <Editorial></Editorial>
+    <ISBN></ISBN>
+    <ano>0</ano>
+    <paginas>0</paginas>
+  </Libro>
+</Biblioteca>
